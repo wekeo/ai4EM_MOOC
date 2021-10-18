@@ -1,1 +1,2 @@
-# ai4EM_MOOC
+# JupyterLab-WEkEO
+
