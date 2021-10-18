@@ -1,0 +1,7 @@
+# pack-refs with: peeled fully-peeled sorted 
+e76e65fced6bd6445f986948e0989077c49dbbc6 refs/heads/joamig-main-patch-16530
+5f7fed37c622ad776145a5d3f8fc7704ca986e13 refs/heads/lfs-test
+30036e48a91f9b4017e0169fc817c5a4c33f784a refs/heads/main
+e76e65fced6bd6445f986948e0989077c49dbbc6 refs/merge-requests/1/head
+319ea6fe8878f3f4c6c049ba360b086c57e111c7 refs/merge-requests/1/merge
+5f7fed37c622ad776145a5d3f8fc7704ca986e13 refs/merge-requests/2/head
