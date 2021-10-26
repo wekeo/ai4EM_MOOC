@@ -10,7 +10,6 @@ Throughout the [Artificial Intelligence for Earth Monitoring MOOC](https://www.f
 * How AI and ML are used in various EO applications.
 * Hands-on learning using the Python programming language and Jupyter Notebooks to process and analyse EO data using ML.
 
-
 ## Getting Started
 
 ### Description
