@@ -30,7 +30,7 @@ Additionally, a [Docker](https://github.com/wekeo/ai4EM_MOOC/blob/main/Dockerfil
 
 To clone this repository in your laptop, type:
 
-```
+``` shell
     git clone https://github.com/wekeo/ai4EM_MOOC.git
 ```
 
@@ -40,7 +40,7 @@ In case you want to copy the repository in a local folder of your Gitlab, you wo
 
 If you are currently on the WEkEO JupyterLab you are already in the right place and can start. To clone this repository in to the WEkEO JupyterLab environment open a terminal in the WEkEO JupyterLab, type:
 
-```
+``` shell
     cd work
     git clone https://github.com/wekeo/ai4EM_MOOC.git
 ```
