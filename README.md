@@ -50,7 +50,7 @@ This will create a clone of this repository of notebooks in the work directory o
 
 ## Help
 
-In case a problem or issue related to code is found, please create a new issue in GitHub, or type a comment on FutureLearn's forum.
+In case a problem or issue related to code is found, please create a new issue in GitHub, or post a comment on FutureLearn's forum.
 
 If the problem is related to WEkEO, please contact the WEkEO support by requesting a ticket ([support@wekeo.eu](support@wekeo.eu)).
 
