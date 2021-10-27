@@ -22,7 +22,9 @@ The experts in AI, EO, and Earth system monitoring will take you through the imp
 
 This repository supports Python 3.9. We highly recommend that users working on their own systems install the appropriate Anaconda distribution for their operating system. 
 
-The Python environment ("machine-learning") that need to be utilized for executing the Jupyter notebooks can be found [here](https://github.com/wekeo/ai4EM_MOOC/blob/main/env.yaml).
+The Python environment ("machine-learning") that need to be utilized for executing the Jupyter notebooks can be found [here](https://github.com/wekeo/ai4EM_MOOC/blob/main/env.yaml). The [env.yaml](https://github.com/wekeo/ai4EM_MOOC/blob/main/env.yaml) file is utilized to load all the Python packages needed.
+
+Additionally, a [Docker](https://github.com/wekeo/ai4EM_MOOC/blob/main/Dockerfile) file ([Dockerfile](https://github.com/wekeo/ai4EM_MOOC/blob/main/Dockerfile)) can be used to run the Python environment. 
 
 ### Cloning the repository
 
@@ -54,4 +56,4 @@ If the problem is related to WEkEO, please contact the WEkEO support by requesti
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE.md file for details.
+The license is defined in each Jupyter notebook.
