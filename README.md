@@ -42,13 +42,41 @@ Additionally, a [Docker](https://github.com/wekeo/ai4EM_MOOC/blob/main/Dockerfil
 
 ### Cloning the repository
 
+#### Own local machine
+
 To clone this repository in your laptop, type:
 
 ``` shell
     git clone https://github.com/wekeo/ai4EM_MOOC.git
 ```
 
+Then, for the notebooks that utilize the Snippet for importing Python packages should be removed. The Snippet was:
+
+```
+## BEGIN S3FS IMPORT SNIPPET ##
+import os, sys
+s3_home =  os.getcwd()
+try: sys.path.remove(s3_home) # REMOVE THE S3 ROOT FROM THE $PATH
+except Exception: pass
+
+current_dir = os.getcwd()
+
+os.chdir('/home/jovyan') # TEMPORARILY MOVE TO ANOTHER DIRECTORY
+
+# BEGIN IMPORTS #
+
+# END IMPORTS #
+
+os.chdir(current_dir) # GO BACK TO YOUR PREVIOUS DIRECTORY
+
+sys.path.append(s3_home) # RESTORE THE S3 ROOT IN THE $PATH
+
+## END S3FS IMPORT SNIPPET ##
+```
+
 **NOTE**: You would not have the fast access provided by the Harmonized Data Access as part of the WEkEO infrastructure if you want to execute in your own local machine.
+
+#### JupyterHub
 
 In case you want to copy the repository in a local folder of your Gitlab, you would need to register for a [WEkEO](www.wekeo.eu) account and enter the JupyterHub - then follow the instructions below.
 
