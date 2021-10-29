@@ -18,7 +18,7 @@ Throughout the [Artificial Intelligence for Earth Monitoring MOOC](https://www.f
 
 The experts in AI, EO, and Earth system monitoring will take you through the importance of AI in [Week 2](https://github.com/wekeo/ai4EM_MOOC/blob/main/2_ai4eo) and in four themed weeks – land ([Week 3](https://github.com/wekeo/ai4EM_MOOC/blob/main/3_land)), ocean ([Week 4](https://github.com/wekeo/ai4EM_MOOC/blob/main/4_ocean)), atmosphere ([Week 5](https://github.com/wekeo/ai4EM_MOOC/blob/main/5_atmosphere)), and climate ([Week 6](https://github.com/wekeo/ai4EM_MOOC/blob/main/6_climate)) – leaving you well-versed in the intricacies of EO and satellite data, as well as how AI and ML can unlock its full potential. 
 
-NOTE: It is important to know that the following GitHub repository **ONLY** contains the Jupyter notebooks **WITHOUT** the data utilized for the notebooks. The data that is needed for each week can be found below:
+**NOTE**: It is important to know that the following GitHub repository **ONLY** contains the Jupyter notebooks **WITHOUT** the data utilized for the notebooks. The data that is needed for each week can be found below:
 
 * Week 2: [https://wekeo-files.apps.mercator.dpi.wekeo.eu/s/iqMwt7Zz8isxg2K](https://wekeo-files.apps.mercator.dpi.wekeo.eu/s/iqMwt7Zz8isxg2K)
 * Week 3: [https://wekeo-files.apps.mercator.dpi.wekeo.eu/s/FTqQ4GiiRfA4Sop](https://wekeo-files.apps.mercator.dpi.wekeo.eu/s/FTqQ4GiiRfA4Sop)
@@ -44,7 +44,7 @@ To clone this repository in your laptop, type:
     git clone https://github.com/wekeo/ai4EM_MOOC.git
 ```
 
-NOTE: You would not have the fast access provided by the Harmonized Data Access as part of the WEkEO infrastructure if you want to execute in your own local machine.
+**NOTE**: You would not have the fast access provided by the Harmonized Data Access as part of the WEkEO infrastructure if you want to execute in your own local machine.
 
 In case you want to copy the repository in a local folder of your Gitlab, you would need to register for a [WEkEO](www.wekeo.eu) account and enter the JupyterHub - then follow the instructions below.
 
