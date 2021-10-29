@@ -24,11 +24,11 @@ The experts in AI, EO, and Earth system monitoring will take you through the imp
 
 **NOTE**: It is important to know that the following GitHub repository **ONLY** contains the Jupyter notebooks **WITHOUT** the data utilized for the notebooks. The data that is needed for each week can be found below:
 
-* Week 2: [https://wekeo-files.apps.mercator.dpi.wekeo.eu/s/iqMwt7Zz8isxg2K](https://wekeo-files.apps.mercator.dpi.wekeo.eu/s/iqMwt7Zz8isxg2K)
-* Week 3: [https://wekeo-files.apps.mercator.dpi.wekeo.eu/s/FTqQ4GiiRfA4Sop](https://wekeo-files.apps.mercator.dpi.wekeo.eu/s/FTqQ4GiiRfA4Sop)
-* Week 4: [https://drive.google.com/file/d/1q1yhVpgjx50APAPa_tskEsV9P6pF7BuF/view?usp=sharing](https://drive.google.com/file/d/1q1yhVpgjx50APAPa_tskEsV9P6pF7BuF/view?usp=sharing)
-* Week 5: [https://wekeo-files.apps.mercator.dpi.wekeo.eu/s/DrGPGZrs8WLwaHs](https://wekeo-files.apps.mercator.dpi.wekeo.eu/s/DrGPGZrs8WLwaHs)
-* Week 6: [https://drive.google.com/file/d/1BYRLBx7ev6WUob8Fa4wDJp962b5KNKaz/view?usp=sharing](https://drive.google.com/file/d/1BYRLBx7ev6WUob8Fa4wDJp962b5KNKaz/view?usp=sharing)
+* [Week 2](https://wekeo-files.apps.mercator.dpi.wekeo.eu/s/iqMwt7Zz8isxg2K)
+* [Week 3](https://wekeo-files.apps.mercator.dpi.wekeo.eu/s/FTqQ4GiiRfA4Sop)
+* [Week 4](https://drive.google.com/file/d/1q1yhVpgjx50APAPa_tskEsV9P6pF7BuF/view?usp=sharing)
+* [Week 5](https://wekeo-files.apps.mercator.dpi.wekeo.eu/s/DrGPGZrs8WLwaHs)
+* [Week 6](https://drive.google.com/file/d/1BYRLBx7ev6WUob8Fa4wDJp962b5KNKaz/view?usp=sharing)
 
 In order to have the same structure as the `public` folder, each folder data needs to be moved to its specific week folder. 
 
