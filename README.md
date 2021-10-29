@@ -50,7 +50,7 @@ To clone this repository in your laptop, type:
     git clone https://github.com/wekeo/ai4EM_MOOC.git
 ```
 
-Then, for the notebooks that utilize the Snippet for importing Python packages should be removed. The Snippet was:
+Then, for all the Jupyter notebooks that utilize the Snippet, the importing code cell needs to changed **MANUALLY**. The code that can be found below should be removed when it is executed in your own local machine:
 
 ```
 ## BEGIN S3FS IMPORT SNIPPET ##
