@@ -98,4 +98,6 @@ If the problem is related to WEkEO, please contact the WEkEO support by requesti
 
 ## License
 
-The license is defined in each Jupyter notebook.
+This code is licensed under an MIT license. See file LICENSE.txt for details on the usage and distribution terms.
+
+All product names, logos, and brands are property of their respective owners. All company, product and service names used in this website are for identification purposes only.
