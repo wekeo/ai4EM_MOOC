@@ -26,7 +26,7 @@ The experts in AI, EO, and Earth system monitoring will take you through the imp
 
 * [Week 2](https://wekeo-files.apps.mercator.dpi.wekeo.eu/s/iqMwt7Zz8isxg2K)
 * [Week 3](https://wekeo-files.apps.mercator.dpi.wekeo.eu/s/FTqQ4GiiRfA4Sop)
-* [Week 4](https://drive.google.com/file/d/1q1yhVpgjx50APAPa_tskEsV9P6pF7BuF/view?usp=sharing)
+* [Week 4](https://wekeo-files.apps.mercator.dpi.wekeo.eu/s/8AgWqtwjMbafW8K)
 * [Week 5](https://wekeo-files.apps.mercator.dpi.wekeo.eu/s/DrGPGZrs8WLwaHs)
 * [Week 6](https://drive.google.com/file/d/1BYRLBx7ev6WUob8Fa4wDJp962b5KNKaz/view?usp=sharing)
 
