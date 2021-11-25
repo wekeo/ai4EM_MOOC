@@ -26,9 +26,9 @@ The experts in AI, EO, and Earth system monitoring will take you through the imp
 
 * [Week 2](https://wekeo-files.apps.mercator.dpi.wekeo.eu/s/iqMwt7Zz8isxg2K)
 * [Week 3](https://wekeo-files.apps.mercator.dpi.wekeo.eu/s/FTqQ4GiiRfA4Sop)
-* [Week 4](https://wekeo-files.apps.mercator.dpi.wekeo.eu/s/8AgWqtwjMbafW8K)
+* [Week 4](https://wekeo-files.apps.mercator.dpi.wekeo.eu/s/teTmKxmA2eSMssp)
 * [Week 5](https://wekeo-files.apps.mercator.dpi.wekeo.eu/s/DrGPGZrs8WLwaHs)
-* [Week 6](https://wekeo-files.apps.mercator.dpi.wekeo.eu/s/TbzfWNGTG8r2GgT)
+* [Week 6](https://wekeo-files.apps.mercator.dpi.wekeo.eu/s/FjK8Z9tyzjnWRKX)
 
 In order to have the same structure as the `public` folder, each folder data needs to be moved to its specific week folder. 
 
