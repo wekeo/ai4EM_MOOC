@@ -1,7 +1,7 @@
 # JupyterLab-WEkEO
 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/wekeo/ai4EM_MOOC/graphs/commit-activity)
-![python](https://img.shields.io/badge/python-3.9-blue)
+![python](https://img.shields.io/badge/python-3.8-blue)
 
 
 Throughout the [Artificial Intelligence for Earth Monitoring MOOC](https://www.futurelearn.com/courses/artificial-intelligence-for-earth-monitoring), there is hands-on tutorials where you can have a go yourself at using AI and ML algorithms to analyse Earth observation data (from the Copernicus programme). These practical elements of the course will take the form of Jupyter Notebooks, which work like documents containing both rich-text (such as paragraphs and links) and computer code, in this case Python, and the code can be run which will output results.
