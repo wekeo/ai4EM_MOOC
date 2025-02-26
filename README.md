@@ -1,6 +1,11 @@
 # JupyterLab-WEkEO
 
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/wekeo/ai4EM_MOOC/graphs/commit-activity)
+> ⚠️ **Repository No Longer Maintained**  
+> This repository is no longer actively maintained. The data and code may be outdated, incomplete, or non-functional.  
+> Use at your own risk. Contributions and issue reports may not receive a response.
+
+
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-no-red.svg)](https://github.com/wekeo/ai4EM_MOOC/graphs/commit-activity)
 ![python](https://img.shields.io/badge/python-3.8-blue)
 
 
@@ -22,15 +27,9 @@ Throughout the [Artificial Intelligence for Earth Monitoring MOOC](https://www.f
 
 The experts in AI, EO, and Earth system monitoring will take you through the importance of AI in [Week 2](https://github.com/wekeo/ai4EM_MOOC/blob/main/2_ai4eo) and in four themed weeks – land ([Week 3](https://github.com/wekeo/ai4EM_MOOC/blob/main/3_land)), ocean ([Week 4](https://github.com/wekeo/ai4EM_MOOC/blob/main/4_ocean)), atmosphere ([Week 5](https://github.com/wekeo/ai4EM_MOOC/blob/main/5_atmosphere)), and climate ([Week 6](https://github.com/wekeo/ai4EM_MOOC/blob/main/6_climate)) – leaving you well-versed in the intricacies of EO and satellite data, as well as how AI and ML can unlock its full potential. 
 
-**NOTE**: It is important to know that the following GitHub repository **ONLY** contains the Jupyter notebooks **WITHOUT** the data utilized for the notebooks. The data that is needed for each week can be found below:
+**NOTE**: It is important to know that the following GitHub repository **ONLY** contains the Jupyter notebooks **WITHOUT** the data utilized for the notebooks. 
 
-* [Week 2](https://wekeo-files.apps.mercator.dpi.wekeo.eu/s/iqMwt7Zz8isxg2K)
-* [Week 3](https://wekeo-files.apps.mercator.dpi.wekeo.eu/s/A2wnqLpAAHnKByt)
-* [Week 4](https://wekeo-files.apps.mercator.dpi.wekeo.eu/s/teTmKxmA2eSMssp)
-* [Week 5](https://wekeo-files.apps.mercator.dpi.wekeo.eu/s/E2prXaiWQNXWrbS)
-* [Week 6](https://wekeo-files.apps.mercator.dpi.wekeo.eu/s/FjK8Z9tyzjnWRKX)
 
-In order to have the same structure as the `public` folder, each folder data needs to be moved to its specific week folder. 
 
 ### Installing the Python environment
 
